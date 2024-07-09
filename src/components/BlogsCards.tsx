@@ -14,7 +14,7 @@ interface blogs {
 export function BlogsCards({ title, url, description, thumbnail }: blogs) {
   return (
     <div className="h-[25rem] flex items-center justify-center z-10">
-      <PinContainer title="/medium.com/@aaradhyablogs">
+      <PinContainer title="https://medium.com/@sujaltalreja04">
         <Link
           href={url}
           className="flex basis-full flex-col p-4 tracking-tight text-slate-100/50 sm:basis-1/2 w-[20rem] h-[20rem] "
