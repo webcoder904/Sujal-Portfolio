@@ -19,7 +19,7 @@ const ContactPage = () => {
       </div>
 
       <div className="flex justify-center gap-14 mt-16">
-        <Link href="https://www.linkedin.com/in/aaradhyapathak/">
+        <Link href="https://www.linkedin.com/in/sujal-kishore-kumar-talreja-65975b216/">
           <Image
             src={linkedinLogo}
             alt="Linkedin"
@@ -29,7 +29,7 @@ const ContactPage = () => {
           />
         </Link>
 
-        <Link href="https://www.instagram.com/yonko_aro">
+        <Link href="https://www.instagram.com/sujal.talreja.2004.ds/">
           <Image
             src={instagramLogo}
             alt="instagram"
@@ -38,7 +38,7 @@ const ContactPage = () => {
             loading="lazy"
           />
         </Link>
-        <Link href="https://x.com/AaradhyaPathak6">
+        <Link href="https://x.com/SujalTalreja1">
           <Image
             src={xLogo}
             alt="x"
@@ -56,7 +56,7 @@ const ContactPage = () => {
 
       {/*  */}
       <div className="flex justify-center gap-14 mt-8">
-        <Link href="mailto:aaradhyapathakofficial@gmail.com">
+        <Link href="mailto:sujaltalreja04@gmail.com">
           <Image
             src={gmailLogo}
             alt="Email Address"
@@ -65,7 +65,7 @@ const ContactPage = () => {
             loading="lazy"
           />
         </Link>
-        <Link href="tel:+91 1234567890">
+        <Link href="tel:+91 7574021120">
           <Image
             src={callLogo}
             alt="call"
